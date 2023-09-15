@@ -14,3 +14,9 @@ body {
     border: 1px solid;
     background-color: #E1ECC8;
 }
+
+.head-text {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
