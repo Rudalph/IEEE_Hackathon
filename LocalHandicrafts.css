@@ -1,0 +1,16 @@
+.form-background {
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+body {
+    background-color: #a489d4;
+}
+
+.input {
+    width: 500px;
+    border: 1px solid;
+    background-color: #E1ECC8;
+}
